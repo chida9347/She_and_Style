@@ -11,11 +11,6 @@ npm run dev
 
 The production bundle can be created with `npm run build` and served with `npm run preview`.
 
-## Demo admin access
-
-- Route: `/admin/login`
-- Email: `admin@sheandstyle.com`
-- Password: `StyleAdmin2026!`
 
 This is demo frontend authentication only. Credentials and session state live in client code/browser storage, so this is not suitable for production security.
 
